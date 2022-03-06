@@ -1,0 +1,44 @@
+  .head {
+            padding: 10px;
+            text-align: center;
+            background:#DAF7A6;
+            color: #581845;
+            font-size: 15px;
+            font-family: "Lucida Sans";
+        }
+        .subhead {
+            font-size: 10px;
+            font-family: 'Lucida Handwriting';
+        }
+
+        .subj {
+            width: 600px;
+            padding: 10px;
+            border: 5px solid #DAF7A6;
+            font-size: 15px;
+            font-family: "Lucida Handwriting";
+            margin: 0;
+            color: #581845;
+            text-align: center;
+
+         }
+
+         .subj_sub{
+            font-family: "Lucida Sans";
+            text-align:justify;
+         }
+
+         .contain{
+             display:flex;
+         }
+
+         #col1{
+             flex:1;
+             position:relative;
+         }
+
+         #col2{
+             flex:1;
+             position: relative;
+         }
+         
